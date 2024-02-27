@@ -14,3 +14,5 @@ for row_number in range(start, end):  #Each row has a consequentive number from 
         print(star_icon)
         star_icon = star_icon[:-1] #Otherwise, print the reverse order
 print("@")
+
+#You can change the icon shown by replacing the "@" with any icon/emoji of your choice
